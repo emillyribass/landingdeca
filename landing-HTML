@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Landing Page</title>
+</head>
+<body> 
+    <header>
+        <nav>
+            <ul>
+              <img src="" alt="">
+          
+                <li><a href="#">Início</a></li>
+                <li><a href="#">Sobre</a></li>
+                <li><a href="#">Serviços</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>gf</h1>
+        <a href="#" class="cta-button">Saiba Mais</a>
+    </section>
+
+    <section class="features">
+        <div class="feature">
+            <h2>Desinvolvimento de Sistemas </h2>
+            <p>Análise e Desenvolvimento de Sistemas é a área da tecnologia responsável por projetar, desenvolver e implementar softwares para atender as necessidades das empresas</p>
+        </div>
+        <div class="feature">
+            <h2>Benefícios</h2>
+            <p>serve como base para que o profissional possa se capacitar e atuar em outras áreas ligadas a Tecnologia da Informação, como segurança da Informação</p>
+        </div>
+    </section>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</body>
+</html>
+
+    <footer>
+        <p> 2023. Todos os direitos reservados para DECA.</p>
+    </footer>
+</body>
+</html>
