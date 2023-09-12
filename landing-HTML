@@ -9,37 +9,53 @@
 <body> 
     <header>
         <nav>
-            <ul>
-              <img src="" alt="">
-          
+            <ul class="flex-flex">
+              <img class="imagem_logo"src="https://i.imgur.com/M7AhI9J.png" alt="">
+            
+            <div class="indice">
                 <li><a href="#">Início</a></li>
                 <li><a href="#">Sobre</a></li>
                 <li><a href="#">Serviços</a></li>
                 <li><a href="#">Contato</a></li>
+            </div>
             </ul>
         </nav>
     </header>
 
     <section class="hero">
         <h1>gf</h1>
-        <a href="#" class="cta-button">Saiba Mais</a>
+        <a href="#" class="cta-button">Inscreva-se</a>
     </section>
 
     <section class="features">
         <div class="feature">
-            <h2>Desinvolvimento de Sistemas </h2>
+            <h2>Desenvolvimento de Sistemas </h2>
             <p>Análise e Desenvolvimento de Sistemas é a área da tecnologia responsável por projetar, desenvolver e implementar softwares para atender as necessidades das empresas</p>
+
+        <h3> Vantagens </h3>
+            Salário- No cargo de Desenvolvedor de Sistemas se inicia ganhando R$ 2.221,00 de salário e pode vir a ganhar até R$ 4.754,00.<br>
+            Home office- Trabalhar do conforto de casa. <br> 
+
+
         </div>
         <div class="feature">
             <h2>Benefícios</h2>
-            <p>serve como base para que o profissional possa se capacitar e atuar em outras áreas ligadas a Tecnologia da Informação, como segurança da Informação</p>
+            <p>serve como base para que o profissional possa se capacitar e atuar em outras áreas ligadas a Tecnologia da Informação, como segurança da Informação</p> <br> <br>
+                 
+                     <h2>Objetivos do curso</h2>
+            <p>●Estimular, por meio de situações de aprendizagens, atitudes empreendedoras,
+sustentáveis e colaborativas nos alunos.<br>
+●Promover o desenvolvimento do aluno por meio de ações que articulem e
+mobilizem conhecimentos, habilidades, valores e atitudes de forma potencialmente
+criativa e que estimule o aprimoramento contínuo.<br>
+● Promover uma avaliação processual e formativa com base em indicadores das
+competências, que possibilitem a todos os envolvidos no processo educativo a
+verificação da aprendizagem. </p>
+            
         </div>
+
     </section>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-</body>
-</html>
+
 
     <footer>
         <p> 2023. Todos os direitos reservados para DECA.</p>
