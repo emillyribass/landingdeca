@@ -65,3 +65,19 @@ footer {
     text-align: center;
     padding: 10px 0;
 }
+ .imagem_logo {
+     width: 150px;
+     height: 150px;
+
+ }
+ .indice{
+     margin-left: 350px;
+     align-items: center;
+     justify-content: center;
+     flex: 1;
+     align-self: center;
+ }
+
+ .flex-flex {
+     display: flex;
+ }
