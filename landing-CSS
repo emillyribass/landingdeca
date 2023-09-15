@@ -1,6 +1,6 @@
 
 
-/* Reset some default styles for better consistency */
+
 body, h1, h2, p {
     margin: 0;
     padding: 0;
@@ -24,6 +24,10 @@ nav ul {
 nav li {
     display: inline;
     margin-right: 20px;
+}
+
+li:hover{
+  color: #c50dd9;
 }
 
 nav a {
@@ -78,6 +82,85 @@ footer {
      align-self: center;
  }
 
+
+ 
+
  .flex-flex {
      display: flex;
  }
+ 
+
+ul.flex-flex li:hover a {
+    color:#c50dd9; 
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+ul.flex-flex {
+    list-style-type: none;
+    padding:px;
+}
+
+
+ul.flex-flex li {
+    margin: 35px;
+}
+ul.flex-flex li a {
+    text-decoration: none;
+}
+.mapa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.avaliacoes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.avaliacao {
+    width: calc(50% - 20px);
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+    transition: transform 0.2s;
+}
+
+.avaliacao:hover {
+    transform: translateY(-5px);
+}
+
+.avatar img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.conteudo {
+    margin-left: 10px;
+}
+
+.conteudo h2 {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+}
+
+.conteudo p {
+    font-size: 0.9rem;
+    color: #555;
+}
