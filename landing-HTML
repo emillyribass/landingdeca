@@ -56,9 +56,43 @@ verificação da aprendizagem. </p>
 
     </section>
 
+<div class="mapa">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d900.0040296561009!2d-49.255866729429!3d-25.537839997617546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94dcfbba2ed16359%3A0x5866ed1e6aba7f6b!2sCol%C3%A9gio%20Estadual%20Inez%20Vicente%20Borocz.%20Ens.%20Fudmental%20E%20M%C3%A9dio.!5e0!3m2!1spt-BR!2sbr!4v1694786097863!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
-    <footer>
+    <section class="avaliacoes">
+        <div class="avaliacao">
+            <div class="avatar">
+                <img src="https://images.pexels.com/photos/2328141/pexels-photo-2328141.jpeg?cs=srgb&dl=pexels-lucas-pezeta-2328141.jpg&fm=jpg" alt="Avatar 2">
+            </div>
+            <div class="conteudo">
+                <h2>Maria Silva
+                    <br> Classificação: ★★★★★ (5/5)</h2>
+                <p>"Eu concluí recentemente um curso técnico em Desenvolvimento de Sistemas e estou extremamente satisfeita com a experiência. Este curso superou todas as minhas expectativas e preparou-me de maneira excepcional para uma carreira na área de tecnologia." </p>
+            </div>
+        </div>
+
+ <div class="avaliacao">
+            <div class="avatar">
+                <img src="https://images.pexels.com/photos/2328141/pexels-photo-2328141.jpeg?cs=srgb&dl=pexels-lucas-pezeta-2328141.jpg&fm=jpg" alt="Avatar 2">
+            </div>
+            <div class="conteudo">
+                <h2>Maria Silva
+                    <br> Classificação: ★★★★☆ (4/5)</h2>
+                <p>"Eu concluí recentemente um curso técnico em Desenvolvimento de Sistemas e estou extremamente satisfeita com a experiência. Este curso superou todas as minhas expectativas e preparou-me de maneira excepcional para uma carreira na área de tecnologia." </p>
+            </div>
+        </div>
+
+
+    </section>
+
+
+
+
+<div>
+<footer>
         <p> 2023. Todos os direitos reservados para DECA.</p>
     </footer>
+
 </body>
 </html>
