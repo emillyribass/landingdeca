@@ -1,6 +1,4 @@
 
-
-
 body, h1, h2, p {
     margin: 0;
     padding: 0;
@@ -47,9 +45,9 @@ nav a {
     display: inline-block;
     background-color: #c50dd9;;
     color: #fff;
-    padding: 10px 20px;
+    padding: 20px 65px;
     text-decoration: none;
-    border-radius: 5px;
+    border-radius: 50px;
     font-weight: bold;
 }
 
@@ -164,3 +162,46 @@ ul.flex-flex li a {
     font-size: 0.9rem;
     color: #555;
 }
+.frase {
+  color: #c50dd9;
+  font-size:50px;
+  text-align: center;
+  margin-top: 100px;
+}
+.colégio {
+  color:#02084B ;
+  font-size: 45px;
+  text-align: center;
+}
+
+.feature {
+  width: 300px; 
+  padding: 10px; 
+  border: 1px solid rgba(22, 14, 20, 0.432);
+  border-radius: 5px;
+  font-size: 16px; 
+}
+
+.beneficios {
+  width: 300px; 
+  padding: 10px; 
+  border: 1px solid rgba(22, 14, 20, 0.432);
+  border-radius: 5px;
+  font-size: 16px; 
+}
+.vantagens {
+  width: 300px; 
+  padding: 10px; 
+  border: 1px solid rgba(22, 14, 20, 0.432);
+  border-radius: 5px;
+  font-size: 16px; 
+}
+
+.objetivos {
+  width: 300px; 
+  padding: 10px; 
+  border: 1px solid rgba(22, 14, 20, 0.432);
+  border-radius: 5px;
+  font-size: 16px;
+}
+
