@@ -21,7 +21,9 @@
             </ul>
         </nav>
     </header>
-
+ <div class="frase"> Curso De Desenvolvimento De Sistemas </div>
+ <div class="colégio"> Colégio Inêz Vicente Borocz
+</div>
     <section class="hero">
         <h1>gf</h1>
         <a href="#" class="cta-button">Inscreva-se</a>
@@ -29,20 +31,21 @@
 
     <section class="features">
         <div class="feature">
-            <h2>Desenvolvimento de Sistemas </h2>
-            <p>Análise e Desenvolvimento de Sistemas é a área da tecnologia responsável por projetar, desenvolver e implementar softwares para atender as necessidades das empresas</p>
+            <h2>Desenvolvimento de Sistemas </h2> <br>
+            <p>Análise e Desenvolvimento de Sistemas é a área da tecnologia responsável por projetar, desenvolver e implementar softwares para atender as necessidades das empresas</p> <br> <br>
+            </div>
 
-        <h3> Vantagens </h3>
-            Salário- No cargo de Desenvolvedor de Sistemas se inicia ganhando R$ 2.221,00 de salário e pode vir a ganhar até R$ 4.754,00.<br>
-            Home office- Trabalhar do conforto de casa. <br> 
+      <div class="vantagens">
+        <h2> Vantagens </h2> <br>
+          Salário- No cargo de Desenvolvedor de Sistemas se inicia ganhando R$ 2.221,00 de salário e pode vir a ganhar até R$ 4.754,00.<br>
+            Home office- Trabalhar do conforto de casa. <br> </div>
 
-
-        </div>
-        <div class="feature">
-            <h2>Benefícios</h2>
-            <p>serve como base para que o profissional possa se capacitar e atuar em outras áreas ligadas a Tecnologia da Informação, como segurança da Informação</p> <br> <br>
+        
+        <div class="beneficios">
+            <h2>Benefícios</h2> <br>
+            <p> serve como base para que o profissional possa se capacitar e atuar em outras áreas ligadas a Tecnologia da Informação, como segurança da Informação</p> <br> <br> </div>
                  
-                     <h2>Objetivos do curso</h2>
+               <div class="objetivos">   <h2>Objetivos do curso</h2> <br>
             <p>●Estimular, por meio de situações de aprendizagens, atitudes empreendedoras,
 sustentáveis e colaborativas nos alunos.<br>
 ●Promover o desenvolvimento do aluno por meio de ações que articulem e
@@ -74,12 +77,12 @@ verificação da aprendizagem. </p>
 
  <div class="avaliacao">
             <div class="avatar">
-                <img src="https://images.pexels.com/photos/2328141/pexels-photo-2328141.jpeg?cs=srgb&dl=pexels-lucas-pezeta-2328141.jpg&fm=jpg" alt="Avatar 2">
+                <img src="https://omunicipio.com.br/wp-content/uploads/2020/01/homem-desaparece-apos-dar-carona-para-desconhecido-1-1280x720.jpg" alt="Avatar 2">
             </div>
             <div class="conteudo">
-                <h2>Maria Silva
+                <h2>Carlos Gustavo
                     <br> Classificação: ★★★★☆ (4/5)</h2>
-                <p>"Eu concluí recentemente um curso técnico em Desenvolvimento de Sistemas e estou extremamente satisfeita com a experiência. Este curso superou todas as minhas expectativas e preparou-me de maneira excepcional para uma carreira na área de tecnologia." </p>
+                <p>"Desde o primeiro dia, o curso de desenvolvimento de sistemas provou ser uma jornada incrível e enriquecedora. Como alguém que sempre teve interesse em tecnologia, a decisão de me inscrever neste curso foi uma das melhores que já tomei." </p>
             </div>
         </div>
 
@@ -87,12 +90,54 @@ verificação da aprendizagem. </p>
     </section>
 
 
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perguntas Frequentes</title>
+    <link rel="stylesheet" href="seuarquivo.css">
+</head>
+<body>
+    <div class="menu-faq">
+        <ul>
+            <li><a href="#pergunta1">O que é desenvolvimento de sistemas?</a></li>
+            <li><a href="#pergunta2">Quais são os requisitos para o curso?</a></li>
+            <li><a href="#pergunta3">Qual a duração do curso?</a></li>
+            <li><a href="#pergunta4">Como faço para me inscrever?</a></li>
+            <li><a href="#pergunta5">Quem são os instrutores?</a></li>
+        </ul>
+    </div>
 
+    <div class="perguntas">
+        <div id="pergunta1">
+            <h2>O que é desenvolvimento de sistemas?</h2>
+            <p>Desenvolvimento de sistemas é...</p>
+        </div>
+
+        <div id="pergunta2">
+            <h2>Quais são os requisitos para o curso?</h2>
+            <p>Os requisitos para o curso são...</p>
+        </div>
+
+        <div id="pergunta3">
+            <h2>Qual a duração do curso?</h2>
+            <p>A duração do curso é...</p>
+        </div>
+
+        <div id="pergunta4">
+            <h2>Como faço para me inscrever?</h2>
+            <p>Para se inscrever no curso...</p>
+        </div>
+
+        <div id="pergunta5">
+            <h2>Quem são os instrutores?</h2>
+            <p>Os instrutores do curso são...</p>
+        </div>
+    </div>
 
 <div>
 <footer>
         <p> 2023. Todos os direitos reservados para DECA.</p>
     </footer>
+    
 
 </body>
 </html>
