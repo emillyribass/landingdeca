@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+v<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -94,46 +94,7 @@ verificação da aprendizagem. </p>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Perguntas Frequentes</title>
     <link rel="stylesheet" href="seuarquivo.css">
-</head>
-<body>
-    <div class="menu-faq">
-        <ul>
-            <li><a href="#pergunta1">O que é desenvolvimento de sistemas?</a></li>
-            <li><a href="#pergunta2">Quais são os requisitos para o curso?</a></li>
-            <li><a href="#pergunta3">Qual a duração do curso?</a></li>
-            <li><a href="#pergunta4">Como faço para me inscrever?</a></li>
-            <li><a href="#pergunta5">Quem são os instrutores?</a></li>
-        </ul>
-    </div>
 
-    <div class="perguntas">
-        <div id="pergunta1">
-            <h2>O que é desenvolvimento de sistemas?</h2>
-            <p>Desenvolvimento de sistemas é...</p>
-        </div>
-
-        <div id="pergunta2">
-            <h2>Quais são os requisitos para o curso?</h2>
-            <p>Os requisitos para o curso são...</p>
-        </div>
-
-        <div id="pergunta3">
-            <h2>Qual a duração do curso?</h2>
-            <p>A duração do curso é...</p>
-        </div>
-
-        <div id="pergunta4">
-            <h2>Como faço para me inscrever?</h2>
-            <p>Para se inscrever no curso...</p>
-        </div>
-
-        <div id="pergunta5">
-            <h2>Quem são os instrutores?</h2>
-            <p>Os instrutores do curso são...</p>
-        </div>
-    </div>
-
-<div>
 <footer>
         <p> 2023. Todos os direitos reservados para DECA.</p>
     </footer>
